@@ -34,6 +34,5 @@ Allow: /
 
 # Allow/Disallow Ads.txt & App-ads.txt
 Allow: /ads.txt
-Allow: /app-ads.txt
 
 Sitemap: https://getfixexampledeveloper.github.io/sitemap.xml
